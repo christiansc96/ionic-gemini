@@ -1,4 +1,4 @@
 export const environment = {
   production: true,
-  API_KEY: '<YOUR-API-KEY>',
+  GEMINI_API_KEY: '<YOUR-GEMINI_API_KEY>',
 };
